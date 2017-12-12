@@ -6,5 +6,3 @@ Well everyone, I cannot seem to figure out how to get the cardisabler script to 
 
 Kinda got bored of this, feel free to do whatever you want with this, I am no longer updating it, not even sure if the current state works. Feel free to use my code for help though.
 
-# UPDATE
-Script will be fully working by the end of Nov.  I am working with another scripter to get this thing out.
